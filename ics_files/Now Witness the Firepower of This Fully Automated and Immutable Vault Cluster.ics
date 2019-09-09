@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Now Witness the Firepower of This Fully Automated and Immutable 
+ Vault Cluster//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Now Witness the Firepower of This Fully Automated and Immutable Va
+ ult Cluster
+DTSTART;VALUE=DATE-TIME:20190911T132500
+DTEND;VALUE=DATE-TIME:20190911T142500
+END:VEVENT
+END:VCALENDAR

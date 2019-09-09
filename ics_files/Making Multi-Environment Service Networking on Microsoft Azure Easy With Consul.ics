@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Making Multi-Environment Service Networking on Microsoft Azure E
+ asy With Consul//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Making Multi-Environment Service Networking on Microsoft Azure Eas
+ y With Consul
+DTSTART;VALUE=DATE-TIME:20190910T111500
+DTEND;VALUE=DATE-TIME:20190910T121500
+END:VEVENT
+END:VCALENDAR

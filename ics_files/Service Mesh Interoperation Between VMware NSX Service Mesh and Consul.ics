@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Service Mesh Interoperation Between VMware NSX Service Mesh and 
+ Consul//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Service Mesh Interoperation Between VMware NSX Service Mesh and Co
+ nsul
+DTSTART;VALUE=DATE-TIME:20190911T104500
+DTEND;VALUE=DATE-TIME:20190911T114500
+END:VEVENT
+END:VCALENDAR

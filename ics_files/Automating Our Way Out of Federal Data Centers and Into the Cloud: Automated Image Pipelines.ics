@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Automating Our Way Out of Federal Data Centers and Into the Clou
+ d: Automated Image Pipelines//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Automating Our Way Out of Federal Data Centers and Into the Cloud:
+  Automated Image Pipelines
+DTSTART;VALUE=DATE-TIME:20190911T141500
+DTEND;VALUE=DATE-TIME:20190911T151500
+END:VEVENT
+END:VCALENDAR

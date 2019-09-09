@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Breaking the Ice: Secure Introduction With Vault and Kubernetes/
+ /mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Breaking the Ice: Secure Introduction With Vault and Kubernetes
+DTSTART;VALUE=DATE-TIME:20190911T132500
+DTEND;VALUE=DATE-TIME:20190911T142500
+END:VEVENT
+END:VCALENDAR

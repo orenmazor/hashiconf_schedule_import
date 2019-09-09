@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Managing PCI Compliant Architectures at Scale With Terraform and
+  Vault//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Managing PCI Compliant Architectures at Scale With Terraform and V
+ ault
+DTSTART;VALUE=DATE-TIME:20190910T144500
+DTEND;VALUE=DATE-TIME:20190910T154500
+END:VEVENT
+END:VCALENDAR

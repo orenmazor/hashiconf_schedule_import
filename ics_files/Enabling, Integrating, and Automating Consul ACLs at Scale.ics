@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Enabling\, Integrating\, and Automating Consul ACLs at Scale//mx
+ m.dk//
+BEGIN:VEVENT
+SUMMARY:Enabling\, Integrating\, and Automating Consul ACLs at Scale
+DTSTART;VALUE=DATE-TIME:20190911T113500
+DTEND;VALUE=DATE-TIME:20190911T123500
+END:VEVENT
+END:VCALENDAR

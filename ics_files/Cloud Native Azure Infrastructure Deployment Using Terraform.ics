@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cloud Native Azure Infrastructure Deployment Using Terraform//mx
+ m.dk//
+BEGIN:VEVENT
+SUMMARY:Cloud Native Azure Infrastructure Deployment Using Terraform
+DTSTART;VALUE=DATE-TIME:20190910T135500
+DTEND;VALUE=DATE-TIME:20190910T145500
+END:VEVENT
+END:VCALENDAR

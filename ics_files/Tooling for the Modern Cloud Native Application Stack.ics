@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tooling for the Modern Cloud Native Application Stack//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Tooling for the Modern Cloud Native Application Stack
+DTSTART;VALUE=DATE-TIME:20190911T100000
+DTEND;VALUE=DATE-TIME:20190911T110000
+END:VEVENT
+END:VCALENDAR

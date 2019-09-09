@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//From Terraform Configuration to a Deployed Cluster in One Click 
+ Using HashiCorp Terraform and Vault on Oracle Cloud Infrastructure//mxm.dk
+ //
+BEGIN:VEVENT
+SUMMARY:From Terraform Configuration to a Deployed Cluster in One Click Us
+ ing HashiCorp Terraform and Vault on Oracle Cloud Infrastructure
+DTSTART;VALUE=DATE-TIME:20190910T144500
+DTEND;VALUE=DATE-TIME:20190910T154500
+END:VEVENT
+END:VCALENDAR

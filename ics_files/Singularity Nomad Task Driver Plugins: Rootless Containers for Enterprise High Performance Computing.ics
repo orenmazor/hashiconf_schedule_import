@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Singularity Nomad Task Driver Plugins: Rootless Containers for E
+ nterprise High Performance Computing//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Singularity Nomad Task Driver Plugins: Rootless Containers for Ent
+ erprise High Performance Computing
+DTSTART;VALUE=DATE-TIME:20190911T113500
+DTEND;VALUE=DATE-TIME:20190911T123500
+END:VEVENT
+END:VCALENDAR

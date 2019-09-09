@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Using Terraform for Container Security as Code With Sysdig Falco
+ //mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Using Terraform for Container Security as Code With Sysdig Falco
+DTSTART;VALUE=DATE-TIME:20190911T132500
+DTEND;VALUE=DATE-TIME:20190911T142500
+END:VEVENT
+END:VCALENDAR

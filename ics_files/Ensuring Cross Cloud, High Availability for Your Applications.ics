@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ensuring Cross Cloud\, High Availability for Your Applications//
+ mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Ensuring Cross Cloud\, High Availability for Your Applications
+DTSTART;VALUE=DATE-TIME:20190910T155000
+DTEND;VALUE=DATE-TIME:20190910T165000
+END:VEVENT
+END:VCALENDAR

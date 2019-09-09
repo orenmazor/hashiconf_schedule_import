@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bridging Securely Across the Cloud Native Divide With Gloo\, Con
+ sul\, Nomad\, and Vault//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Bridging Securely Across the Cloud Native Divide With Gloo\, Consu
+ l\, Nomad\, and Vault
+DTSTART;VALUE=DATE-TIME:20190910T135500
+DTEND;VALUE=DATE-TIME:20190910T145500
+END:VEVENT
+END:VCALENDAR

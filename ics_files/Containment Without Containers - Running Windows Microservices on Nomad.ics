@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Containment Without Containers - Running Windows Microservices o
+ n Nomad//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Containment Without Containers - Running Windows Microservices on 
+ Nomad
+DTSTART;VALUE=DATE-TIME:20190910T144500
+DTEND;VALUE=DATE-TIME:20190910T154500
+END:VEVENT
+END:VCALENDAR
