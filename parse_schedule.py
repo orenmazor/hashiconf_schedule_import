@@ -30,7 +30,7 @@ for day in range(0, 3):
 
             time = f"{hour}:{minutes}"
 
-        start_time = f"{timestamps[day]}T{time}:00"
+        start_time = f"{timestamps[day]}T{time}:00-08:00"
         end_time = (dateutil.parser.parse(start_time) + timedelta(hours=1)).isoformat()
 
         event = {
