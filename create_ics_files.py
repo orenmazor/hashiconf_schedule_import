@@ -14,7 +14,7 @@ for event_json in json.load(open("schedule.json")):
 
     event = Event()
     event.add("summary", event_json["title"])
-
+    event.add("location", event_json["location"])
     event.add("dtstart", dateutil.parser.parse(event_json["start_time"]))
     event.add("dtend", dateutil.parser.parse(event_json["end_time"]))
 
